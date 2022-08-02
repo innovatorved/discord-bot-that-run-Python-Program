@@ -1,7 +1,7 @@
 
 # Discord Bot That Run Python Programs
 <p align="center">
-  <img src="https://github.com/innovatorved/discord-bot-that-run-Python-Program/blob/master/discord.png?raw=true" alt="Discord img" height=300 width=300/>
+  <img src="https://raw.githubusercontent.com/innovatorved/discord-bot-that-run-Python-Program/master/discord.png" alt="Discord img" height=300 width=300/>
 </p>
 
 Discord Bot that capable to run python programs right from your chat in discord server specific channel .
